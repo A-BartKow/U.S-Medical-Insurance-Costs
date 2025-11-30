@@ -10,7 +10,7 @@ Goals
 - Keep code educational and reproducible for beginners.
 
 
-{ 
+
 # Preprocessing & data-quality notes
 
 - Convert types on read: age -> int, bmi -> float, children -> int, charges -> float.
